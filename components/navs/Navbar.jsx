@@ -22,8 +22,8 @@ export default function Example() {
         This example requires updating your template:
 
         ```
-        <html class="h-full bg-gray-100">
-        <body class="h-full">
+        <html className="h-full bg-gray-100">
+        <body className="h-full">
         ```
       */}
       <div className="min-h-full">
@@ -62,10 +62,10 @@ export default function Example() {
                   </div>
                   <div className="hidden md:block">
                     <div className="ml-4 flex items-center md:ml-6">
-                      <button class="inline-flex text-white border-0 py-2 px-6 focus:outline-none   text-lg">
+                      <button className="inline-flex text-white border-0 py-2 px-6 focus:outline-none   text-lg">
                         Mearch Store
                       </button>
-                      <button class="ml-4 inline-flex text-white  border-2 py-2 px-6 focus:outline-none  border-[#D8AAF8] rounded-lg text-lg">
+                      <button className="ml-4 inline-flex text-white  border-2 py-2 px-6 focus:outline-none  border-[#D8AAF8] rounded-lg text-lg">
                         Whitepaper
                       </button>
                     </div>
@@ -108,10 +108,10 @@ export default function Example() {
                 </div>
                 <div className="pt-4 pb-3 border-t border-gray-700">
                   <div className="flex items-center px-5">
-                    <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                    <button className="inline-flex text-white border-0 py-2 px-6 focus:outline-none   text-lg">
                       Mearch Store
                     </button>
-                    <button class="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
+                    <button className="ml-4 inline-flex text-white  border-2 py-2 px-6 focus:outline-none  border-[#D8AAF8] rounded-lg text-lg">
                       Whitepaper
                     </button>
                   </div>
