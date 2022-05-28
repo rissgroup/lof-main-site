@@ -4,6 +4,8 @@ import Hero from '../components/Hero';
 import Whatlof from '../components/whatlof';
 import Lofplatform from '../components/Lofplatform';
 import Footer from '../components/navs/Footer';
+import Ceo from '../components/Ceo';
+import Merchstore from '../components/Merchstore';
 
 export default function Home() {
   return (
@@ -17,6 +19,8 @@ export default function Home() {
 <Hero/>
 <Whatlof/>
 <Lofplatform/>
+<Ceo/>
+<Merchstore/>
      <Footer/>
     </>
   )
