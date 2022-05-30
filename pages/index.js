@@ -17,10 +17,12 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <script src="https://codepen.io/ImagineProgramming/pen/qBwZLJ.js"></script>
-      <script src="//s3-us-west-2.amazonaws.com/s.cdpn.io/188512/codepen-utilities.min.js"></script>
-      <script src="//cdnjs.cloudflare.com/ajax/libs/stats.js/r11/Stats.js"></script>
-      <script src="//cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5.1/dat.gui.min.js"></script>
+ 
+
+      <Script src="https://codepen.io/ImagineProgramming/pen/qBwZLJ.js" ></Script>
+      <Script src="//s3-us-west-2.amazonaws.com/s.cdpn.io/188512/codepen-utilities.min.js" ></Script>
+      <Script src="//cdnjs.cloudflare.com/ajax/libs/stats.js/r11/Stats.js" ></Script>
+      <Script src="//cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5.1/dat.gui.min.js" ></Script>
       <Script src="/js/Canves.js" ></Script>
       <canvas id="swarm"></canvas>
       <div className="absolute inset-0">
