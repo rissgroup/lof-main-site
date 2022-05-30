@@ -21,7 +21,7 @@ export default function Home() {
       <script src="//s3-us-west-2.amazonaws.com/s.cdpn.io/188512/codepen-utilities.min.js"></script>
       <script src="//cdnjs.cloudflare.com/ajax/libs/stats.js/r11/Stats.js"></script>
       <script src="//cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5.1/dat.gui.min.js"></script>
-      <Script src="/js/Canves.js" />
+      <Script src="/js/Canves.js" ></Script>
       <canvas id="swarm"></canvas>
       <div className="absolute inset-0">
         <Navbar />
