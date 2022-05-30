@@ -6,7 +6,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background-color: black;
+  // background-color: black;
+  overflow-x: hidden;
 }
 
 a {
@@ -17,3 +18,6 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+@import "./canves";

@@ -26,7 +26,7 @@ export default function Example() {
         <body className="h-full">
         ```
       */}
-      <div className="min-h-full">
+      <div className="">
         <Disclosure as="nav" className="">
           {({ open }) => (
             <>
