@@ -31,10 +31,11 @@ export default function Home() {
         <Hero />
         <Whatlof />
         <Lofplatform />
+    <Roadmap/>
         <Ceo />
         <Merchstore />
         <Contact/>
-        <Roadmap/>
+        
         <Footer />
       </div>
     </>
