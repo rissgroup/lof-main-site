@@ -26,7 +26,7 @@ export default function Contact() {
     <div className="lg:w-3/5  basis-1/2 md:pr-16 lg:pr-0 pr-0">
       <h1 className="title-font font-bold text-6xl text-white">Drop us a line will <br/> be <span className='text-[#D8AAF8]'>glad to here <br/> from you </span></h1>
       <p className="leading-relaxed mt-4 text-lg">Lorem Ipsum is simply dummy text of the printing and </p>
-      <p className="leading-relaxed mt-4 text-sm">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+      <p className="leading-relaxed mt-4 text-sm">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
 when an unknown printer took a galley. </p>
     </div>
   </div>
