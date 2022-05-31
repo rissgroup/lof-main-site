@@ -7,6 +7,8 @@ import Footer from "../components/navs/Footer";
 import Ceo from "../components/Ceo";
 import Merchstore from "../components/Merchstore";
 import Script from "next/script";
+import Contact from "../components/Contact";
+import Roadmap from "../components/Roadmap";
 
 export default function Home() {
   return (
@@ -31,6 +33,8 @@ export default function Home() {
         <Lofplatform />
         <Ceo />
         <Merchstore />
+        <Contact/>
+        <Roadmap/>
         <Footer />
       </div>
     </>
