@@ -45,7 +45,7 @@ RELEASE"
               {/* <h2 className="timeline__content-title">1893</h2> */}
               <p className="timeline__content-desc">
                 Unveiling of a new redesigned and updated roadmap in perfect
-                harmony with the team's vision.
+                harmony with the teams vision.
               </p>
             </div>
           </div>
@@ -75,7 +75,7 @@ RELEASE"
               {/* <h2 className="timeline__content-title">1908</h2> */}
               <p className="timeline__content-desc">
                 Unveiling of a new redesigned and updated roadmap in perfect
-                harmony with the team's vision.
+                harmony with the teams vision.
               </p>
             </div>
           </div>
